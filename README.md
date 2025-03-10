@@ -4,7 +4,9 @@ This project is a microservices-based application built using **Spring Cloud** a
 It consists of multiple services, including:  
 - **Eureka Server** for service discovery  
 - **Student Service**  
-- **Attendance Service**  
+- **Attendance Service**
+- **Assignment Service**
+- **Course Service**
 - **API Gateway** for request routing  
 
 ---
